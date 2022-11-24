@@ -33,6 +33,7 @@
     the dependencies for a task should appear in a separate list within the parent task.
 
 (IMPLEMENTED) • Upgrade the task listing page to allow tasks to be edited:
+            
             o Allow a task’s name to be changed.
             
             o Allow a task’s parent task to be changed. Doing this must trigger a status
