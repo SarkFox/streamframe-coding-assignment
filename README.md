@@ -34,5 +34,6 @@
 
 (IMPLEMENTED) • Upgrade the task listing page to allow tasks to be edited:
             o Allow a task’s name to be changed.
+            
             o Allow a task’s parent task to be changed. Doing this must trigger a status
             change propagation behaviour as described above.
