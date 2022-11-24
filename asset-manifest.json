@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/streamframe-coding-assignment/static/css/main.8a41b323.css",
+    "main.js": "/streamframe-coding-assignment/static/js/main.0c538129.js",
+    "index.html": "/streamframe-coding-assignment/index.html",
+    "main.8a41b323.css.map": "/streamframe-coding-assignment/static/css/main.8a41b323.css.map",
+    "main.0c538129.js.map": "/streamframe-coding-assignment/static/js/main.0c538129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a41b323.css",
+    "static/js/main.0c538129.js"
+  ]
+}
